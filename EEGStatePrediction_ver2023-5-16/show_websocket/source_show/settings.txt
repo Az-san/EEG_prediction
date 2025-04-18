@@ -1,0 +1,22 @@
+[
+    {
+        "command":0,
+        "type": "image",
+        "path": "images\\baby_boy04_laugh.png"
+    },
+    {
+        "command":1,
+        "type": "image",
+        "path": "images\\baby_boy08_think.png"
+    },
+    {
+        "command":0,
+        "type": "sound",
+        "text": "Open Eyes"
+    },
+     {
+        "command":1,
+        "type": "sound",
+        "text": "Closed Eyes"
+    }
+]
